@@ -1,7 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+# Eddie Neitenbach
+## [Assignment #4]
+## [Submission date: 10/01/24]
+## Jacob Cook
 * example
 * example
 * example
